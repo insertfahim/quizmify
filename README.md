@@ -76,7 +76,7 @@
 1. **Clone the repository**
 
     ```bash
-    git clone <repository-url>
+    git@github.com:insertfahim/quizmify.git
     cd quizmify
     ```
 
